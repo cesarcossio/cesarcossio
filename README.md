@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cesarcossio
 - 👀 I’m interested in Design and living life. My goal is to get to do both things in one.
 - 🌱 I’m currently learning to code, doing a full stack programme. 
-- 💞️ I’m looking to collaborate on UI/UX Design.
+- 💻 I’m looking to collaborate on UI/UX Design.
 - 📫 How to reach me cesarcossiook@gmail.com
 
 <!---
